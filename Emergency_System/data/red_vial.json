@@ -1,0 +1,806 @@
+{
+  "nodes": [
+    {
+      "id": "N0",
+      "x": 63.94,
+      "y": 2.5
+    },
+    {
+      "id": "N1",
+      "x": 27.5,
+      "y": 22.32
+    },
+    {
+      "id": "N2",
+      "x": 73.65,
+      "y": 67.67
+    },
+    {
+      "id": "N3",
+      "x": 89.22,
+      "y": 8.69
+    },
+    {
+      "id": "N4",
+      "x": 42.19,
+      "y": 2.98
+    },
+    {
+      "id": "N5",
+      "x": 21.86,
+      "y": 50.54
+    },
+    {
+      "id": "N6",
+      "x": 2.65,
+      "y": 19.88
+    },
+    {
+      "id": "N7",
+      "x": 64.99,
+      "y": 54.49
+    },
+    {
+      "id": "N8",
+      "x": 22.04,
+      "y": 58.93
+    },
+    {
+      "id": "N9",
+      "x": 80.94,
+      "y": 0.65
+    },
+    {
+      "id": "N10",
+      "x": 80.58,
+      "y": 69.81
+    },
+    {
+      "id": "N11",
+      "x": 34.03,
+      "y": 15.55
+    },
+    {
+      "id": "N12",
+      "x": 95.72,
+      "y": 33.66
+    },
+    {
+      "id": "N13",
+      "x": 9.27,
+      "y": 9.67
+    },
+    {
+      "id": "N14",
+      "x": 84.75,
+      "y": 60.37
+    },
+    {
+      "id": "N15",
+      "x": 80.71,
+      "y": 72.97
+    },
+    {
+      "id": "N16",
+      "x": 53.62,
+      "y": 97.31
+    },
+    {
+      "id": "N17",
+      "x": 37.85,
+      "y": 55.2
+    },
+    {
+      "id": "N18",
+      "x": 82.94,
+      "y": 61.85
+    },
+    {
+      "id": "N19",
+      "x": 86.17,
+      "y": 57.74
+    },
+    {
+      "id": "N20",
+      "x": 70.46,
+      "y": 4.58
+    },
+    {
+      "id": "N21",
+      "x": 22.79,
+      "y": 28.94
+    },
+    {
+      "id": "N22",
+      "x": 7.98,
+      "y": 23.28
+    },
+    {
+      "id": "N23",
+      "x": 10.1,
+      "y": 27.8
+    },
+    {
+      "id": "N24",
+      "x": 63.57,
+      "y": 36.48
+    },
+    {
+      "id": "N25",
+      "x": 37.02,
+      "y": 20.95
+    },
+    {
+      "id": "N26",
+      "x": 26.7,
+      "y": 93.67
+    },
+    {
+      "id": "N27",
+      "x": 64.8,
+      "y": 60.91
+    },
+    {
+      "id": "N28",
+      "x": 17.11,
+      "y": 72.91
+    },
+    {
+      "id": "N29",
+      "x": 16.34,
+      "y": 37.95
+    },
+    {
+      "id": "N30",
+      "x": 98.95,
+      "y": 64.0
+    },
+    {
+      "id": "N31",
+      "x": 55.69,
+      "y": 68.46
+    },
+    {
+      "id": "N32",
+      "x": 84.29,
+      "y": 77.6
+    },
+    {
+      "id": "N33",
+      "x": 22.9,
+      "y": 3.21
+    },
+    {
+      "id": "N34",
+      "x": 31.55,
+      "y": 26.77
+    },
+    {
+      "id": "N35",
+      "x": 21.1,
+      "y": 94.29
+    },
+    {
+      "id": "N36",
+      "x": 87.64,
+      "y": 31.47
+    },
+    {
+      "id": "N37",
+      "x": 65.54,
+      "y": 39.56
+    },
+    {
+      "id": "N38",
+      "x": 91.45,
+      "y": 45.89
+    },
+    {
+      "id": "N39",
+      "x": 26.49,
+      "y": 24.66
+    },
+    {
+      "id": "N40",
+      "x": 56.14,
+      "y": 26.27
+    },
+    {
+      "id": "N41",
+      "x": 58.46,
+      "y": 89.78
+    },
+    {
+      "id": "N42",
+      "x": 39.94,
+      "y": 21.93
+    },
+    {
+      "id": "N43",
+      "x": 99.75,
+      "y": 50.95
+    },
+    {
+      "id": "N44",
+      "x": 9.09,
+      "y": 4.71
+    },
+    {
+      "id": "N45",
+      "x": 10.96,
+      "y": 62.74
+    },
+    {
+      "id": "N46",
+      "x": 79.21,
+      "y": 42.22
+    },
+    {
+      "id": "N47",
+      "x": 6.35,
+      "y": 38.16
+    },
+    {
+      "id": "N48",
+      "x": 99.61,
+      "y": 52.91
+    },
+    {
+      "id": "N49",
+      "x": 97.11,
+      "y": 86.08
+    }
+  ],
+  "edges": [
+    {
+      "origen": "N1",
+      "destino": "N0",
+      "peso": 52.8
+    },
+    {
+      "origen": "N2",
+      "destino": "N0",
+      "peso": 83.9
+    },
+    {
+      "origen": "N3",
+      "destino": "N2",
+      "peso": 79.3
+    },
+    {
+      "origen": "N4",
+      "destino": "N2",
+      "peso": 75.1
+    },
+    {
+      "origen": "N5",
+      "destino": "N3",
+      "peso": 84.3
+    },
+    {
+      "origen": "N6",
+      "destino": "N0",
+      "peso": 88.0
+    },
+    {
+      "origen": "N7",
+      "destino": "N5",
+      "peso": 47.9
+    },
+    {
+      "origen": "N8",
+      "destino": "N2",
+      "peso": 63.0
+    },
+    {
+      "origen": "N9",
+      "destino": "N1",
+      "peso": 77.7
+    },
+    {
+      "origen": "N10",
+      "destino": "N4",
+      "peso": 103.0
+    },
+    {
+      "origen": "N11",
+      "destino": "N8",
+      "peso": 56.0
+    },
+    {
+      "origen": "N12",
+      "destino": "N2",
+      "peso": 46.6
+    },
+    {
+      "origen": "N13",
+      "destino": "N2",
+      "peso": 105.3
+    },
+    {
+      "origen": "N14",
+      "destino": "N12",
+      "peso": 39.5
+    },
+    {
+      "origen": "N15",
+      "destino": "N14",
+      "peso": 13.2
+    },
+    {
+      "origen": "N16",
+      "destino": "N10",
+      "peso": 46.0
+    },
+    {
+      "origen": "N17",
+      "destino": "N3",
+      "peso": 95.1
+    },
+    {
+      "origen": "N18",
+      "destino": "N9",
+      "peso": 67.1
+    },
+    {
+      "origen": "N19",
+      "destino": "N7",
+      "peso": 29.0
+    },
+    {
+      "origen": "N20",
+      "destino": "N2",
+      "peso": 65.3
+    },
+    {
+      "origen": "N21",
+      "destino": "N15",
+      "peso": 96.5
+    },
+    {
+      "origen": "N22",
+      "destino": "N17",
+      "peso": 57.1
+    },
+    {
+      "origen": "N23",
+      "destino": "N4",
+      "peso": 51.3
+    },
+    {
+      "origen": "N24",
+      "destino": "N17",
+      "peso": 33.9
+    },
+    {
+      "origen": "N25",
+      "destino": "N16",
+      "peso": 105.4
+    },
+    {
+      "origen": "N26",
+      "destino": "N13",
+      "peso": 118.9
+    },
+    {
+      "origen": "N27",
+      "destino": "N17",
+      "peso": 35.9
+    },
+    {
+      "origen": "N28",
+      "destino": "N22",
+      "peso": 54.5
+    },
+    {
+      "origen": "N29",
+      "destino": "N9",
+      "peso": 86.5
+    },
+    {
+      "origen": "N30",
+      "destino": "N21",
+      "peso": 105.6
+    },
+    {
+      "origen": "N31",
+      "destino": "N14",
+      "peso": 41.0
+    },
+    {
+      "origen": "N32",
+      "destino": "N28",
+      "peso": 70.6
+    },
+    {
+      "origen": "N33",
+      "destino": "N14",
+      "peso": 86.4
+    },
+    {
+      "origen": "N34",
+      "destino": "N1",
+      "peso": 7.4
+    },
+    {
+      "origen": "N35",
+      "destino": "N14",
+      "peso": 89.1
+    },
+    {
+      "origen": "N36",
+      "destino": "N0",
+      "peso": 38.5
+    },
+    {
+      "origen": "N37",
+      "destino": "N3",
+      "peso": 42.5
+    },
+    {
+      "origen": "N38",
+      "destino": "N2",
+      "peso": 37.8
+    },
+    {
+      "origen": "N39",
+      "destino": "N4",
+      "peso": 32.3
+    },
+    {
+      "origen": "N40",
+      "destino": "N17",
+      "peso": 43.4
+    },
+    {
+      "origen": "N41",
+      "destino": "N13",
+      "peso": 114.3
+    },
+    {
+      "origen": "N42",
+      "destino": "N36",
+      "peso": 59.9
+    },
+    {
+      "origen": "N43",
+      "destino": "N15",
+      "peso": 38.2
+    },
+    {
+      "origen": "N44",
+      "destino": "N26",
+      "peso": 97.6
+    },
+    {
+      "origen": "N45",
+      "destino": "N6",
+      "peso": 55.2
+    },
+    {
+      "origen": "N46",
+      "destino": "N22",
+      "peso": 86.2
+    },
+    {
+      "origen": "N47",
+      "destino": "N29",
+      "peso": 13.4
+    },
+    {
+      "origen": "N48",
+      "destino": "N3",
+      "peso": 57.7
+    },
+    {
+      "origen": "N49",
+      "destino": "N41",
+      "peso": 40.4
+    },
+    {
+      "origen": "N25",
+      "destino": "N46",
+      "peso": 53.7
+    },
+    {
+      "origen": "N6",
+      "destino": "N15",
+      "peso": 101.6
+    },
+    {
+      "origen": "N34",
+      "destino": "N28",
+      "peso": 51.1
+    },
+    {
+      "origen": "N11",
+      "destino": "N17",
+      "peso": 47.2
+    },
+    {
+      "origen": "N4",
+      "destino": "N28",
+      "peso": 98.3
+    },
+    {
+      "origen": "N35",
+      "destino": "N6",
+      "peso": 78.2
+    },
+    {
+      "origen": "N34",
+      "destino": "N0",
+      "peso": 56.2
+    },
+    {
+      "origen": "N48",
+      "destino": "N15",
+      "peso": 29.4
+    },
+    {
+      "origen": "N31",
+      "destino": "N30",
+      "peso": 47.2
+    },
+    {
+      "origen": "N25",
+      "destino": "N3",
+      "peso": 57.2
+    },
+    {
+      "origen": "N0",
+      "destino": "N24",
+      "peso": 37.6
+    },
+    {
+      "origen": "N29",
+      "destino": "N18",
+      "peso": 82.7
+    },
+    {
+      "origen": "N46",
+      "destino": "N35",
+      "peso": 98.7
+    },
+    {
+      "origen": "N31",
+      "destino": "N9",
+      "peso": 77.9
+    },
+    {
+      "origen": "N13",
+      "destino": "N3",
+      "peso": 98.5
+    },
+    {
+      "origen": "N34",
+      "destino": "N3",
+      "peso": 78.5
+    },
+    {
+      "origen": "N30",
+      "destino": "N32",
+      "peso": 27.4
+    },
+    {
+      "origen": "N33",
+      "destino": "N10",
+      "peso": 90.1
+    },
+    {
+      "origen": "N32",
+      "destino": "N5",
+      "peso": 91.2
+    },
+    {
+      "origen": "N4",
+      "destino": "N38",
+      "peso": 67.1
+    },
+    {
+      "origen": "N15",
+      "destino": "N25",
+      "peso": 71.2
+    },
+    {
+      "origen": "N36",
+      "destino": "N15",
+      "peso": 51.8
+    },
+    {
+      "origen": "N2",
+      "destino": "N39",
+      "peso": 65.9
+    },
+    {
+      "origen": "N42",
+      "destino": "N37",
+      "peso": 38.1
+    },
+    {
+      "origen": "N20",
+      "destino": "N16",
+      "peso": 101.9
+    },
+    {
+      "origen": "N45",
+      "destino": "N20",
+      "peso": 91.1
+    },
+    {
+      "origen": "N25",
+      "destino": "N8",
+      "peso": 51.8
+    },
+    {
+      "origen": "N19",
+      "destino": "N29",
+      "peso": 81.8
+    },
+    {
+      "origen": "N48",
+      "destino": "N4",
+      "peso": 76.4
+    },
+    {
+      "origen": "N39",
+      "destino": "N36",
+      "peso": 86.0
+    },
+    {
+      "origen": "N4",
+      "destino": "N34",
+      "peso": 28.3
+    },
+    {
+      "origen": "N16",
+      "destino": "N8",
+      "peso": 68.3
+    },
+    {
+      "origen": "N4",
+      "destino": "N15",
+      "peso": 91.7
+    },
+    {
+      "origen": "N10",
+      "destino": "N28",
+      "peso": 84.7
+    },
+    {
+      "origen": "N45",
+      "destino": "N19",
+      "peso": 93.8
+    },
+    {
+      "origen": "N41",
+      "destino": "N33",
+      "peso": 93.9
+    },
+    {
+      "origen": "N35",
+      "destino": "N19",
+      "peso": 102.4
+    },
+    {
+      "origen": "N6",
+      "destino": "N8",
+      "peso": 48.2
+    },
+    {
+      "origen": "N6",
+      "destino": "N47",
+      "peso": 22.8
+    },
+    {
+      "origen": "N17",
+      "destino": "N18",
+      "peso": 56.6
+    },
+    {
+      "origen": "N45",
+      "destino": "N21",
+      "peso": 38.7
+    },
+    {
+      "origen": "N40",
+      "destino": "N16",
+      "peso": 85.5
+    },
+    {
+      "origen": "N16",
+      "destino": "N3",
+      "peso": 99.0
+    },
+    {
+      "origen": "N21",
+      "destino": "N49",
+      "peso": 98.7
+    },
+    {
+      "origen": "N47",
+      "destino": "N28",
+      "peso": 44.4
+    },
+    {
+      "origen": "N27",
+      "destino": "N35",
+      "peso": 55.2
+    },
+    {
+      "origen": "N4",
+      "destino": "N44",
+      "peso": 45.1
+    },
+    {
+      "origen": "N34",
+      "destino": "N2",
+      "peso": 78.3
+    },
+    {
+      "origen": "N37",
+      "destino": "N35",
+      "peso": 74.7
+    },
+    {
+      "origen": "N19",
+      "destino": "N23",
+      "peso": 111.1
+    },
+    {
+      "origen": "N2",
+      "destino": "N22",
+      "peso": 85.9
+    },
+    {
+      "origen": "N15",
+      "destino": "N42",
+      "peso": 68.0
+    },
+    {
+      "origen": "N49",
+      "destino": "N35",
+      "peso": 103.5
+    },
+    {
+      "origen": "N26",
+      "destino": "N39",
+      "peso": 89.7
+    },
+    {
+      "origen": "N15",
+      "destino": "N10",
+      "peso": 4.4
+    },
+    {
+      "origen": "N11",
+      "destino": "N26",
+      "peso": 79.2
+    },
+    {
+      "origen": "N47",
+      "destino": "N21",
+      "peso": 24.7
+    },
+    {
+      "origen": "N26",
+      "destino": "N42",
+      "peso": 98.2
+    },
+    {
+      "origen": "N15",
+      "destino": "N17",
+      "peso": 49.4
+    },
+    {
+      "origen": "N44",
+      "destino": "N6",
+      "peso": 19.0
+    },
+    {
+      "origen": "N2",
+      "destino": "N30",
+      "peso": 27.8
+    }
+  ]
+}
